@@ -8,9 +8,9 @@ Welcome to my digital workshop. This repository is where I turn "Syntax Errors" 
 
 | Folder | Mission |
 | :--- | :--- |
-| **`Number-Theory/`** | Testing Primes and Factors so I can eventually build my own encryption. |
+| **`Number_Theory/`** | Testing Primes and Factors so I can eventually build my own encryption. |
 | **`Geometry/`** | Calculating the world, one shape at a time. 📐 |
-| **`Logic-and-Patterns/`** | Loops inside loops inside loops. It’s like Inception, but with asterisks. |
+| **`Logic_and_Algorithm/`** | Loops inside loops inside loops. It’s like Inception, but with asterisks. |
 | **`Basics/`** | Where the journey started (and where the `print("Hello World")` lives). |
 
 ---
