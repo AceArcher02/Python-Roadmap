@@ -9,9 +9,11 @@ Welcome to my digital workshop. This repository is where I turn "Syntax Errors" 
 | Folder | Mission |
 | :--- | :--- |
 |**[00_Basics_and_Syntax/](./00_Basics_and_Syntax)** | Where the journey started (and where the `print("Hello World")` lives). |
-| **`Geometry/`** | Calculating the world, one shape at a time. 📐 |
-| **[04_Logic_and_Algorithm/](./04_Logic_and_Algorithm)** | Loops inside loops inside loops. It’s like Inception, but with asterisks. |
-|  **[05_Number_Theory/](./05_Number_Theory)** | Testing Primes and Factors so I can eventually build my own encryption. |
+| **[01_Statistics/](./01_Statistics)** | Finding mean, median and mode for speed and making pretty graphs for boring data.📊 |
+| **[02_NLP/](./02_NLP)** | Teaching the computer how to read CSV files. It’s the first step to making an AI that actually understands us. 📝 |
+| **[03_CV/](./03_CV)** | Exploring the "eyes" of the computer. Currently just measuring images, but one day it'll recognize my face. 👁️ |
+| **[04_Logic_and_Algorithm/](./04_Logic_and_Algorithm)** | Loops inside loops inside loops. It’s like Inception, but with asterisks./ Where I check if a number is even, odd, or just plain stubborn. 15+ scripts of pure "if-else" glory. 🧠 |
+|  **[05_Number_Theory/](./05_Number_Theory)** | Testing Primes and Factors so I can eventually build my own encryption. 📟|
 
 ---
 
